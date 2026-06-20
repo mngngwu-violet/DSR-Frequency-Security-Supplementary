@@ -3,4 +3,10 @@ This repository provides supplementary material for a study on heterogeneous dem
 
 ## Contents
 - Appendix A: Rolling-Horizon UC with RoCoF Constraints
+
   Provides the rolling-horizon unit commitment formulation, standard UC constraints, the embedded RoCoF constraint, and the representative scenario screening procedure.
+
+
+- Appendix B: Heterogeneous DSR Availability Models and Dynamic Parameters
+
+  Provides the detailed PV, EV, and TCL availability models, DSR dynamic parameter settings, and the EV operating-mode classification procedure.
