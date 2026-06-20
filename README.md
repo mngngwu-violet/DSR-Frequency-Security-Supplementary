@@ -8,4 +8,5 @@ This repository provides supplementary material for a study on heterogeneous dem
 
 
 - Appendix B: Heterogeneous DSR Availability Models and Dynamic Parameters
+
   Provides the detailed PV, EV, and TCL availability models, DSR dynamic parameter settings, and the EV operating-mode classification procedure.
